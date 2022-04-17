@@ -1,4 +1,4 @@
-# How-to-Debug-JavaScript-in-VS-Code---No-Extension-RequiredF
+# How-to-Debug-JavaScript-in-VS-Code---No-Extension-Required
 Follow these steps to set-up :
 - Open VS Code
  
